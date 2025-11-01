@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi 👋, I'm<h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ethical+Grey;A+Red+Team+Enthusiast&font=Fira+Code&size=36&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ethical+Grey;An+OffSec+Learner&font=Fira+Code&size=30&pause=1000" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A security enthusiast from New York, passionate about red teaming and penetration testing.</h3>
