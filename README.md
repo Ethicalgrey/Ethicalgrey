@@ -13,9 +13,19 @@
 <br>
 <br>
 
+---
+
 - 🔭 I’m currently working on **Achieving the PNPT certification to deepen my practical knowledge in network penetration testing and red team operations.**
 
 - 🌱 I’m currently learning **Active Directory pentesting and improving my Python skills through beginner projects and scripting practice.**
+<h3>🏅 Certifications I’ve Earned</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ethicalgrey?tab=repositories](https://github.com/Ethicalgrey?tab=repositories)
+
+- 💬 Ask me about **Starting in offensive security, building lab environments, or preparing for entry-level pentesting certifications.**
+
+---
+
 <h3>🏅 Certifications I’ve Earned</h3>
 <p align="left">
   <a href="https://www.tcm-sec.com/certifications/pjpt/" target="_blank" rel="noreferrer">
@@ -23,15 +33,9 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ethicalgrey?tab=repositories](https://github.com/Ethicalgrey?tab=repositories)
-
-- 💬 Ask me about **Starting in offensive security, building lab environments, or preparing for entry-level pentesting certifications.**
-
-- <h3 align="left">📫 Connect with me: **ethicalgrey.theme053@passinbox.com**</h3>
+- <h3 align="left">📫 Connect with me: ethicalgrey.theme053@passinbox.com</h3>
 <p align="left">
 </p>
-<br>
 
-<img src="https://raw.githubusercontent.com/EthicalGrey/EthicalGrey/output/snake.svg" alt="Snake animation" />
 
-###
+
