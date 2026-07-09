@@ -36,6 +36,11 @@
     <img src="https://img.shields.io/badge/PJPT-TCM%20Security-blue?style=for-the-badge&logo=tcmsecurity&logoColor=white" alt="PJPT Certification"/>
   </a>
 </p>
+<p align="left">
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="#&logoColor=white" alt="eJPTv2 Certification"/>
+  </a>
+</p>
 
 - <h3 align="left">📫 Connect with me: ethicalgrey.theme053@passinbox.com</h3>
 <p align="left">
