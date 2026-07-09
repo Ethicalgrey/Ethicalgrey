@@ -22,7 +22,6 @@
 - 🔭 I’m currently working on **Achieving the PNPT certification to deepen my practical knowledge in network penetration testing and red team operations.**
 
 - 🌱 I’m currently learning **Active Directory pentesting and improving my Python skills through beginner projects and scripting practice.**
-<h3>🏅 Certifications I’ve Earned</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ethicalgrey?tab=repositories](https://github.com/Ethicalgrey?tab=repositories)
 
